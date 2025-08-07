@@ -1,6 +1,6 @@
 # 🎓 Student Enrollment System (MS Access + VBA)
 
-A lightweight and offline-capable **Student Enrollment Management System** developed using **Microsoft Access (2007–2016 format)** with **VBA (Visual Basic for Applications)**. Designed to help academic institutions streamline student data entry, ID generation, and reporting.
+A lightweight and offline-capable **Student Enrollment Management System** developed using **Microsoft Access ** with **VBA (Visual Basic for Applications)**. Designed to help academic institutions streamline student data entry, ID generation, and reporting.
 
 ---
 
